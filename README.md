@@ -1,1 +1,35 @@
-hello 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hemanth's Webpage</title>
+</head>
+<body>
+    <h1>Welcome to my Portfolio</h1>
+
+    <a href="">about</a>
+    <br><a href="">awards</a>
+    <br><a href="">projects</a>
+    <br><a href="">contact</a>
+
+
+    <h1>Hemanth IITKGP</h1>
+        <p>I am a passionate web developer with a focus on front end technologies.</p>
+
+        <p><br>I'm currently pursuing my B.tech in <em>INDIAN INSTITUTE OF TECHNOLOGY KHARAGPUR.</em>
+        </p>
+        <p><br>I have learnt web development from<br>Code with swaroop.</p>
+        <p><br>You can <strong>click here</strong> to check out what I have learnt in HTML, CSS and JS.</p>
+    
+
+
+    <h1>My Skills</h1>
+    <ol>
+        <li>Python Basics</li>
+        <li>HTML Basics</li>
+        <li>CSS Basics</li>
+        <li>JS Basics</li>
+    </ol>
+</body>
+</html>
